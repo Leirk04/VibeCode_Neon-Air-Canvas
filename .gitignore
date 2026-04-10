@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.png
+.vscode/
+
+# Virtual Environment / Local Pip installs
+Lib/
+Scripts/
+share/
+Include/
+*.venv
+venv/
+env/
