@@ -24,4 +24,4 @@ python app.py
 ```
 
 ## Developer
-Developed by **Curry**.
+Developed by **Leirk04**.
