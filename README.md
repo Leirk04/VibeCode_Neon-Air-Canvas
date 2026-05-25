@@ -1,8 +1,8 @@
-# Neon Air Canvas 🎨
+# Neon Air Canvas 🦹🏿‍♂️
 
 Advanced hand gesture-based spatial drawing interface utilizing real-time computer vision, the MediaPipe Tasks API, and OpenCV.
 
-## Features ✨
+## Features 
 - **DRAW**: Raise your index finger to draw with neon brush strokes and dynamic bloom.
 - **ERASE**: Raise your index and middle fingers to trigger the circular eraser.
 - **ADJUST**: Pinch your thumb and index fingers together to change the brush size in real-time.
